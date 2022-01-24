@@ -29,6 +29,7 @@ export const useFetchPosts = (timeout = 0) => {
         }
       }, timeout);
     };
+    // To trigger error state + 'refetch' functionality, change Urls.Posts -> Urls.Error
     fetchPostsAndSendToStore(Urls.Posts).catch((error: unknown) =>
       dispatch(postsFailure({ error: (error as Error).message }))
     );

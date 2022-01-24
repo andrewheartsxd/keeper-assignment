@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Styling is provided by [Ant Design](https://github.com/ant-design/ant-design).
 
+View it live here: [Code Sandbox](https://codesandbox.io/s/github/andrewheartsxd/keeper-assignment)
+
+Note: To trigger an error state + enable the 'retry' functionality, change `Urls.Posts` to `Urls.Error` in `hooks.ts`.
+
 ## Available Scripts
 
 In the project directory, you can run:
