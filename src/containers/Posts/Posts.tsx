@@ -48,7 +48,7 @@ const Posts = (props: PostsProps) => {
             closable
             afterClose={handleClose}
           />
-          <Button onClick={getData}>Get Data</Button>
+          <Button onClick={getData}>Retry</Button>
         </>
       ) : null}
       <List
