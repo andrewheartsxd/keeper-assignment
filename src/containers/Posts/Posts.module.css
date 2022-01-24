@@ -1,0 +1,7 @@
+:global .ant-list-grid .ant-col > .ant-list-item {
+  display: flex !important;
+}
+
+:global .ant-list-item {
+  justify-content: center !important;
+}

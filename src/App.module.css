@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  overflow: hidden;
+}
+
+:global .ant-list-pagination {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+:global .ant-row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
