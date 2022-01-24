@@ -8,6 +8,7 @@
   margin-bottom: 1em;
 }
 
+/* https://github.com/ant-design/ant-design/issues/10144 */
 :global .ant-row {
   margin-right: 0 !important;
   margin-left: 0 !important;
