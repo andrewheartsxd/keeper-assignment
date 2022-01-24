@@ -4,7 +4,7 @@ Styling is provided by [Ant Design](https://github.com/ant-design/ant-design).
 
 View it live here: [Code Sandbox](https://codesandbox.io/s/github/andrewheartsxd/keeper-assignment)
 
-Note: To trigger an error state + enable the 'retry' functionality, change `Urls.Posts` to `Urls.Error` in `hooks.ts`.
+Note: To trigger an error state + enable the 'retry' functionality, change `Urls.Posts` to `Urls.Error` in `src/shared/hooks.ts`.
 
 ## Available Scripts
 
